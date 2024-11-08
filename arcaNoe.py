@@ -1,4 +1,5 @@
-class Arca:
+#HOLA ENTE
+class Arca: 
     def __init__(self, capacidad_maxima):
         self.animales = []
         self.alimentos = []
